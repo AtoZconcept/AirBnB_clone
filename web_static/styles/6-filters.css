@@ -51,7 +51,7 @@ h4 {
 }
 .popover {
     background-color: #FAFAFA;
-    border-color: 1px solid #DDDDDD;
+    border: 1px solid #DDDDDD;
     border-radius: 4px;
     margin-top: 40px;
     position: relative;
